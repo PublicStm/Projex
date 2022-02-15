@@ -1,9 +1,9 @@
-#Projex App
+# Projex App
 ![Alt text](/public/ProjexPreview.png?raw=true "Optional Title")
 
 A small project to get back into React. Planned is a small app, similar to Jira from Atlassian. A data interface will be implemented that allows to switch between data sources. The first data source will be Firebase, but in the medium term mysql will be connected.
 
-##Features (planned and done)
+## Features (planned and done)
 
 * Ticket
     * CRUD
@@ -40,14 +40,14 @@ A small project to get back into React. Planned is a small app, similar to Jira 
     * MySQL
 * Auth (maybe)
 
-##Install
+## Install
 
 ```npm install```
 
-##Build
+## Build
 
 ```npm build```
 
-##Start
+## Start
 
 ```npm start```
